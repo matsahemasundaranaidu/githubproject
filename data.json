@@ -1,0 +1,22 @@
+{
+    "cards":[{
+        "img":"1.jfif",
+        "name":"redmi",
+        "rate":"15000",
+        "offer":"12000",
+        "button":"view"
+    },{
+        "img":"2.jfif",
+        "name":"realme",
+        "rate":"27000",
+        "offer":"21000",
+        "button":"view"
+    },{
+        "img":"3.jfif",
+        "name":"vivo",
+        "rate":"18000",
+        "offer":"16000",
+        "button":"view"
+    }
+    ]
+}
